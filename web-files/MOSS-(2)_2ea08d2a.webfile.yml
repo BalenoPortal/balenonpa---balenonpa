@@ -1,0 +1,110 @@
+adx_annotationId: f6b9a5cd-bb7b-8046-f480-a020d6b86b39
+adx_name: MOSS (2)
+adx_summary: MOSS_DESCRIPTION
+adx_theme:
+  importUrls: []
+  color1: []
+  color2: []
+  color3: []
+  color4: []
+  color5: []
+  color6: []
+  color7: []
+  color8: []
+  color9: []
+  color10: &o0 []
+  color11: *o0
+  color12: *o0
+  primaryColor: []
+  headerColor: &o2 []
+  headerMenuTextColor: &o1 []
+  headerMenuHoverColor: &o12 []
+  bodyBackground: *o1
+  footerTextColor: *o1
+  footerColor: *o2
+  footerTextFont: &o3 []
+  footerTextWeight: &o4 []
+  footerTextSize: &o9 []
+  headerMenuTextFont: *o3
+  headerMenuTextWeight: *o4
+  headerMenuTextSize: &o8 []
+  headerMenuHoverStyle: &o11 []
+  siteTitlecolor: *o1
+  siteTitlefont: *o3
+  siteTitleweight: *o4
+  siteTitlesize: []
+  h1font: &o5 []
+  h1weight: *o4
+  h1size: []
+  h1color: *o2
+  h2font: *o5
+  h2weight: *o4
+  h2size: []
+  h2color: *o2
+  h3font: *o3
+  h3weight: *o4
+  h3size: &o6 []
+  h3color: *o2
+  h4font: *o5
+  h4weight: &o7 []
+  h4size: *o6
+  h4color: *o2
+  h5font: *o5
+  h5weight: *o7
+  h5size: &o10 []
+  h5color: *o2
+  p1font: *o3
+  p1weight: *o4
+  p1size: *o8
+  p1color: *o2
+  p2font: *o3
+  p2weight: *o4
+  p2size: *o9
+  p2color: *o2
+  afont: *o3
+  aweight: *o4
+  asize: *o10
+  atextcolor: *o2
+  astyle: *o11
+  aonhoverstyle: *o11
+  aonhovertextcolor: *o2
+  button1style: &o13 []
+  button1radius: &o14 []
+  button1font: *o5
+  button1weight: &o15 []
+  button1size: *o10
+  button1fillcolor: *o12
+  button1textcolor: *o2
+  button1onhoverstyle: *o13
+  button1onhoverfillcolor: []
+  button1onhovertextcolor: *o2
+  button2style: []
+  button2radius: *o14
+  button2font: *o5
+  button2weight: *o15
+  button2size: *o10
+  button2fillcolor: *o12
+  button2textcolor: *o12
+  button2onhoverstyle: *o13
+  button2onhoverfillcolor: *o12
+  button2onhovertextcolor: *o2
+  sectioncolumnmargintopbottom: []
+  sectioncolumncontentpadding: *o9
+  sectioncolumnmarginunit: &o16 []
+  sectioncolumnpaddingunit: *o16
+  isSelectedTheme: []
+  id: &o17 []
+  name: []
+  description: []
+  groupName: []
+  presetThemeId: *o17
+  isModified: []
+  annotationId: []
+adx_themeId: 9fbe5118-b883-48b5-81d6-09a78fedb035
+adx_webfileid: f6b9a5cd-bb7b-8046-f480-a020d6b86b39
+annotationid: cb0067c4-445c-ee11-8def-6045bdaaa5d7
+filename: MOSS%20(2)
+isdocument: true
+mimetype: application/octet-stream
+objectid: f6b9a5cd-bb7b-8046-f480-a020d6b86b39
+objecttypecode: adx_webfile

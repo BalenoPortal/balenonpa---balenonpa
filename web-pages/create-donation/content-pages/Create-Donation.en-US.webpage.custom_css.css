@@ -1,0 +1,30 @@
+
+.col-lg-7 {
+    width: 50%;
+    text-align: center;
+}
+
+.col-lg-5 {
+    width: 50%;
+}
+.donate .donate-form {
+    padding: 201px 30px !important;
+    background: #FDBE33;
+    width: auto !important;
+}
+
+.container .donate .donate-content {
+    padding: 35px 30px 4px 30px;
+}
+
+img {
+    vertical-align: middle;
+    width: 300px;
+    height: 360px;
+    border-radius: 10px;
+}
+
+.footer {
+    margin-top: 122px;
+}
+
